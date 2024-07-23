@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "categoryId": 1001,
+      "name": "Comedy"
+    },
+    {
+      "categoryId": 1002,
+      "name": "Technology"
+    },
+    {
+      "categoryId": 1003,
+      "name": "Sports"
+    },
+    {
+      "categoryId": 1004,
+      "name": "Romance"
+    },
+    {
+      "categoryId": 1005,
+      "name": "Lifestyle"
+    }
+  ],
+  "books": [
+    {
+      "bookId": 1001,
+      "title": "Comedy Bang Bang!",
+      "author": "Scott Aukerman",
+      "price": 1299,
+      "isPublic": true,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1002,
+      "title": "Start Without Me",
+      "author": "James Clear",
+      "price": 1799,
+      "isPublic": false,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1003,
+      "title": "Happy Go Lucky",
+      "author": "David Sedaris",
+      "price": 3599,
+      "isPublic": true,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1004,
+      "title": "That's Not Funny",
+      "author": "Matt Sienkiewicz",
+      "price": 1399,
+      "isPublic": false,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1005,
+      "title": "The Gray Lady Winked",
+      "author": "Ashley Rindsberg",
+      "price": 499,
+      "isPublic": true,
+      "categoryId": 1001
+    }
+  ]
+}
